@@ -1,3 +1,3 @@
-# Light Theme
+# Julia Default Theme
 
-The default light theme for the Julia discourse board
+The default theme for the Julia Discourse board

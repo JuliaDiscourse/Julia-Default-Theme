@@ -1,5 +1,5 @@
 {
-  "name": "Light Theme",
+  "name": "Julia Default Theme",
   "component": false,
   "license_url": null,
   "about_url": null,
@@ -8,7 +8,6 @@
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
-    "Julia_logo_light": "assets/Julia_logo_light.png",
     "JuliaMono-Bold": "assets/JuliaMono-Bold.woff2",
     "JuliaMono-BoldItalic": "assets/JuliaMono-BoldItalic.woff2",
     "JuliaMono-Regular": "assets/JuliaMono-Regular.woff2",
