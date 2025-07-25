@@ -1,8 +1,11 @@
-@media screen and (min-width: 1400px) {
-  .wrap { max-width: 1200px; }
+@media screen and (width >= 1400px) {
+  .wrap {
+    max-width: 1200px;
+  }
 }
 
-
-@media screen and (min-width: 1600px) {
-  .wrap { max-width: 1400px; }
+@media screen and (width >= 1600px) {
+  .wrap {
+    max-width: 1400px;
+  }
 }
